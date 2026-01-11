@@ -137,7 +137,7 @@ images/
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ```bash
 git clone https://github.com/your-username/airline-customer-satisfaction-ml.git
@@ -152,8 +152,10 @@ Run the notebook in **Google Colab** or Jupyter Notebook.
 ## 👩‍💻 Author
 
 **Anisha Maroof**
-📫 LinkedIn: *Add your LinkedIn profile link here*
-💻 GitHub: *Your GitHub username*
+ LinkedIn: *www.linkedin.com/in/anisha-maroof-9a85303a3
+
+
+ GitHub: anishamaroof
 
 ---
 
